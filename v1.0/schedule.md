@@ -1,13 +1,16 @@
-[尚硅谷_H5&C3基础][H5&C3] 60/148
-
-[H5&C3]:https://www.youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn
-
-[尚硅谷 JS基础][JS] 11/140
+> [尚硅谷_H5&C3基础][H5&C3] 60/148
+>
+> [H5&C3]:https://www.youtube.com/playlist?list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn
+>
+> [尚硅谷 JS基础][JS] 11/140
 
 [JS]:https://www.youtube.com/playlist?list=PLmOn9nNkQxJFubqN777c_nScnJ4dpEYMT
 
-[Git&GitHub][] 48/62 **先应用应用，之后熟练再看**
+[Git&GitHub][] 48/62 
 
+<pre>
+<em>先应用应用，之后熟练再看<em>
+</pre>
 [Git&Github]:https://www.youtube.com/playlist?list=PLmOn9nNkQxJFISyrvKUk8OWg-Pzs1donX
 
 [Python爬虫][] [1-9] [15-23] /41
